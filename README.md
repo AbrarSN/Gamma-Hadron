@@ -59,6 +59,8 @@ Separating gamma rays from hadrons is important because gamma rays can provide i
 ### 2. K-Nearest Neighbors (`KNeighborsClassifier`)
 * Initialized with `n_neighbors=3` for classification comparisons[cite: 3].
 
+The Gamma-Hadron Prediction project demonstrates the application of machine learning techniques in the classification of high-energy particle events. By analyzing particle-shower characteristics and identifying patterns within the data, the model can distinguish between gamma-ray and hadron events. This approach can contribute to more efficient and accurate analysis of cosmic-ray data. Overall, the project highlights the potential of machine learning in high-energy physics and astrophysics, particularly in supporting the identification and study of gamma-ray events.
+
 ---
 
 ## 🚀 Setup & Execution
